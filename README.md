@@ -29,21 +29,44 @@
      height="600">
 
    <p> <i> <ins> Macaco se olhando no espelho </ins> </i> </p>
-  <hr>
- <p></p>
-   <p> ESTE TEXTO É <STRONG>IMPORTANTE</STRONG> </p>
- <p> </p>
-   <p>ESTE TEXTO É <em> ENFATIZADO </em> </p>
- <P></P>
-   <p> ESTE TEXTO É <s> TAXADO </s> </p>
- <p></p>
-   <p> C<sub>43 </sub> H<sub>60 </sub> N<sub>12 </sub> O<sub>12 </sub> S<sub>2 </sub> OCITOCINA </p> 
- <p></p>
-   <p>ESTE TEXTO TEM <i> ITALIC </i> </p>
- <p></p>
-   <p> <del> ESTE TEXTO FOI  EXCLUIDO </del> </p>
- <p></p>
-   <p> <ins> ESTE TEXTO FOI INSERIDO </ins> </p>
+  <hr> 
+   
+ <p> ESTE TEXTO É <STRONG>IMPORTANTE</STRONG> 
+<br> <br>
+  ESTE TEXTO É <em> ENFATIZADO </em> 
+<br> <br>
+  ESTE TEXTO É <s> TAXADO </s> 
+<br> <br>
+  C<sub>43 </sub> H<sub>60 </sub> N<sub>12 </sub> O<sub>12 </sub> S<sub>2 </sub> OCITOCINA 
+<br> <br>
+  ESTE TEXTO TEM <i> ITALIC </i> 
+<br> <br>
+ <del> ESTE TEXTO FOI  EXCLUIDO </del>
+<br> <br>
+ <ins> ESTE TEXTO FOI INSERIDO </ins> 
+</p>
+
+<table align="center"> 
+    
+<tr>
+    <th><strong>ITENS</strong></th>
+    <th><strong>QUANTIDADES</strong></th>
+    <th><strong>VALOR</strong></th>
+</tr>
+<tr>
+    <td><i>Mochila</i></td>
+    <td><i>5</i></td>
+    <td><i>R$50</i></td>
+</tr>
+<tr>
+    <td><i>Capuz</i></td>    
+    <td><i>10</i></td>
+    <td><i>R$15</td>
+</tr>
+
+</table>
+<video 
+    src= "https://youtu.be/263uQXeMEsw" controle> </video>
 
 </body>
 
