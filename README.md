@@ -65,8 +65,10 @@
 </tr>
 
 </table>
-<video 
-    src= "https://youtu.be/263uQXeMEsw" controle> </video>
+<video width="1200" height="500" controls>
+  <source src="Dexter Literalmente eu.mp4" type="video/mp4" />
+  <source src="Dexter Literalmente eu.webm" type="video/webm" />
+</video>
 
 </body>
 
